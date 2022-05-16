@@ -14,7 +14,5 @@ class MainActivity : AppCompatActivity() {
 
     private fun setup(){
         title = "prueba"
-
-        var empujar = 33
     }
 }
